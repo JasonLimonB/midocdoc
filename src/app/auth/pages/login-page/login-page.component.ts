@@ -12,4 +12,8 @@ export class LoginPageComponent implements OnInit {
   ngOnInit(): void {
   }
 
-}
+  inisarSesion(){
+    alert('jajaja has sido hackeado :v');
+  }
+
+} 
